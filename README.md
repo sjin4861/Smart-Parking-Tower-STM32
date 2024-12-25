@@ -6,7 +6,7 @@
 이를 위해 블루투스 모듈, 초음파 센서, 압력 센서, 스텝모터 등 다양한 센서를 활용하여 다음과 같은 기능을 구현했습니다.
 
 이 프로젝트의 시연 영상을 보려면 아래 링크를 클릭하세요:
-[시연 영상](https://drive.google.com/file/d/1o_j1ghaTaBY2n3o0FNmWwGSUO7ozcGZU/view?usp=sharing)
+[시연 영상](https://drive.google.com/file/d/1cQRDizoORHhEeaE2diS0kh74wwEAZ1Nh/view?usp=sharing)
 
 ---
 
