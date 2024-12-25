@@ -88,19 +88,3 @@
 3. **인터럽트 우선순위 및 타이머 활용**  
    - 여러 센서에서 인터럽트가 동시에 발생하여 예기치 못한 동작이 일어났습니다.  
    - 해결: 인터럽트 우선순위를 재설정하고, 타이머 인터럽트를 이용해 센서 측정을 일정 주기로 제한하도록 수정했습니다.
-
----
-
-## 복사 버튼 활용 예시
-
-아래와 같은 코드를 README 안에 삽입하면, HTML+JS로 “복사하기” 버튼을 만들 수 있습니다.  
-(단, GitHub에서 기본적으로 HTML `<script>`가 동작하지 않으므로, 실제 동작은 GitHub Page 등에서 확인해야 합니다.)
-
-```html
-<button onclick="navigator.clipboard.writeText(document.getElementById('copy-content').innerText)">
-  복사하기
-</button>
-
-<pre id="copy-content">
-여기에 복사하고 싶은 텍스트를 넣으세요.
-</pre>
