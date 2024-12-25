@@ -1,8 +1,12 @@
-# 10조 - 스마트 주차장 (Bluetooth를 이용한 스마트 주차장)
+# PNU 임베디드설계및실험 10조 - 스마트 주차장 (Bluetooth를 이용한 스마트 주차장)
+![front](https://github.com/user-attachments/assets/19ec48bb-e409-4655-8d29-6a334706d317)
 
 ## 프로젝트 개요
 좁은 공간(골목, 오피스텔 등)에서 효율적으로 주차 공간을 확보하고, 주차장 이용자의 불편함을 해소하기 위해 **스마트 주차장**을 기획하였습니다.  
 이를 위해 블루투스 모듈, 초음파 센서, 압력 센서, 스텝모터 등 다양한 센서를 활용하여 다음과 같은 기능을 구현했습니다.
+
+이 프로젝트의 시연 영상을 보려면 아래 링크를 클릭하세요:
+[시연 영상](https://drive.google.com/file/d/1o_j1ghaTaBY2n3o0FNmWwGSUO7ozcGZU/view?usp=sharing)
 
 ---
 
